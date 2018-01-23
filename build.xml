@@ -1,1 +1,4 @@
-
+<project default="compile">
+<target name="compile">
+  </target>
+  </project>
